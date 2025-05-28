@@ -80,7 +80,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚",
       "required": false 
     },
     "AUTO_REACT": {
@@ -95,11 +95,11 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "saint🇦🇷🇺🇸",
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "description": "BWM-XMD;;;H4sIAAAAAAAAA61VW46jOBTdi38r6mDeRCqpgUBCEvJ+Mhq1HDCJEzAETBLSyncto/5mCzOaVdUSRqSqpkvqnuoaqfkyxtx7zr3nXH8FNCE57uISNL6CNCNHxHC1ZGWKQQMYRRjiDNRAgBgCDVDY1n49hswbIxSs4i6LOlN5UD8PJr6vaKJ7uNCiB/URB517cK2BtFhHxH8n4MDciyu8jKcFoV1aj03Pod0h6R2CQefglQf3Qvfq7OhO4ekeXKuIiGSEbqx0i2OcoaiLyyEi2cfg57piHAfZxPCT5mxyjiINjxKyiHIuK1Sx7LhudxxM9HYxdz8Gv1dcxMt0HIq5Y7RTMxK5kSKp/flsu066l5gVWZiMe9FEoS/wc7KhOHACTBlh5cfrbp5XQ9kJkdpeX1TNHUOXvyybnKCO172yWW9zQoQ77ejAzT4G3IFEZlqEh+KqqSnpRGopSyNRcM4t6749GBrbxVK3ou5omb8FPsxetbL/P3VfGNPAc1vT2WgzIB70XDmG+qrsn9P1rpP3JMfdOh45CdI8/xh8Pt6k/UUwakFRUhb92Aq3/R5/OG4yV11memj0o1amK5mtv4GPWJG9h7I3Fy6eOOxPSTqKlYMyaEOxfwi50aAZdEhXOYj5uTmm2um0SCa7FuQtUfSgMVhCs+XvWhNh7/cP6aFHDcHw05EHy+Jobu5vjPa4dALQgNcayPCG5CxDjCS02uMFuQZQcJxgP8PsVl4gbv1699ydSwa663Vg6wLjI8dPTs352m8707uurXSsxazv7Z17UANplvg4z3HQJjlLstLFeY42OAeN326dqkhnOE4Y7pCgKp8gSKLKySKU1c/5p9MWsRyl6SeKGaiBMEtiF4MGywpcA7cfDN2WFVVUZR4qvChCFXKKClVZs3gNCpZeUYyfk05JjHOG4hQ0oCKqgiarinat/RocEq+rkiryishppgllw+YlzuA0TtZEu2mY7+NQhV+FwzZl2ZSgZRqmatvQMmWoWwbkRFWFmiIaP8GhXH+vAYrP7NlPlQoEWAMhyXI2o0UaJSh4NdvrR+T7SUHZpKS+WS1wBhpvtjFjhG7yillBUeZvyRGbFQ/QCFGU43+FhzMcvHJ5GaZmElR+WC3HprpozUCFvQr0XW0a8PvqRLdTUBMkqHG8JsiyCsUG/Fzt1wBFVShgouhLjL/kiFD29Pjwx9Pjw59Pjw9/Pz0+/FXV6oVFlTTADJEor37qTLtxrtqWO1zwvtVq6dZGNzc6+Mb61dXPrkHbKA3lEm3orlxK8mpuX0i6szQiwWC78ZJSmtW1UcfJF/79D4KABujwq6bb1AQ02128UzlS7zY7l+0HEkM6gZEUZP5kPjzy7tYYrzZjuqQteprQ9WXjS7MdWtD6YbcfFfNsKg3C5mLuHwu+qd9X2QJ8JD5+m4zain8wBzzf4o4ukYu5R3eIokDwwq3DzHZvrunhzu7zmA+s/ipQtkJvGZ87mtgzOjkKhzbHoGN6s0Cyg3jem5RR09Cf581t3kUv9wx5mQTk9hoSfBvbL635WX+fcVcq5K61NyFe7oH/mKXGIvHQ8i6Pk46oRnc4tse+eFidh6siWK5WLeQW82F9Zk56NgXXyg5phFiYZHHVRxpkyU0+WVJUsnZomLyTzDQcpzl6Jh6hnOnfrPKjaSQ9nxpmSdpG+bbqRCwY60r2pZ6mE4bYq/GAXj2Gb4PrP36RPTYrCQAA",
       "value": "",
       "required": true
     },    
